@@ -1,0 +1,142 @@
+body{
+	font-family: YeezyzTStar, AdineuePRO, Arial;
+}
+
+h1{
+	text-shadow: 2px 2px #6a6a6a;
+}
+
+h2{
+	padding-top: 12px;
+	padding-bottom: 12px;
+	/*background-color: #63a6bf;*/
+	font-weight: normal;
+	background-image: url("../images/bw_seal_of_sf.svg.png");
+	background-repeat: no-repeat;
+	background-position: center left;
+	padding-left: 40px;
+	/*border-radius: 10px;*/
+}
+
+.home {
+	background-image: url("../images/seal_of_san_francisco.png");
+	background-repeat: no-repeat;
+	background-position: center left;
+	padding-left: 60px;
+	text-decoration: none;
+}
+
+a:link{
+	text-decoration: none;
+}
+
+a:active{
+	color: #63a6bf;
+}
+
+.container{
+	margin: auto;
+	padding-left: 50px;
+	padding-right: 50px;
+	width: 95%;
+	max-width: 1000px;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-gap: 0 30px;
+}
+
+
+nav, .home, .population, .hood, .economy, .source{
+	grid-column: 1/4;
+}
+
+.about{
+	grid-column: 1/2;
+}
+
+.history{
+	grid-column: 2/3;
+}
+
+.geography{
+	grid-column: 3/4;
+}
+
+/*navigation bar*/
+.menu{
+	text-align: center;
+}
+.menu ul{
+	list-style-type: none;
+	display: inline-block;
+}
+.menu li{
+	/*border: 1px solid #207278 ;*/
+	float:left;
+	margin-left:20px;
+}
+.menu ul li a{
+	display: block;
+	padding:10px;
+	color: #63a6bf;
+}
+
+.menu ul li a:hover{
+	color: #4E53A5;
+	background-color: #3BBA9C;
+}
+
+.menu a.is-current{
+	background-color:white;
+}
+
+@media(max-width: 480px){
+	.menu li{
+		margin-bottom: 5px;
+	}
+}
+
+/*table*/
+table{
+	/*border-collapse: collapse;*/
+	padding: 5px;
+ 	width: 100%;
+}
+
+tr{
+	background-color: #729fb0;
+	color: black;
+	border
+}
+
+tr:nth-child(even) {
+	background-color: #91adb8;
+	color: black;
+}
+
+
+th{
+	/*color: #177539;
+	background-color: #828282;*/
+	height: 2.8em;
+	text-align: left;
+	background-color: white;
+	color: black;
+}
+
+table td, table th{
+	/*border: 1px solid #292929;*/
+}
+
+
+.figRight{
+	float: right;
+}
+
+.figLeft{
+	float: left;
+}
+
+.source{
+	text-align: center;
+}
