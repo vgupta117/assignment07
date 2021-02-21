@@ -1,3 +1,9 @@
-# DMS 290 Assignment 1
+# DMS 290 Assignment 2
 
-Simple javascript is used on the index of the site to toggle the view of the table. When the toggle table button is pressed the table is displayed and disappears in the opposite case.
+For this Assignment I made the following edits to the website:
+
+- Added a background image to all pages
+- Changed the layout of the home page.
+- added some styling to the header and text descriptions of all pages
+- changed the color pallet of the website
+- changed the font Family of the webPage.

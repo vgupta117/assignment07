@@ -1,5 +1,6 @@
 body{
-	font-family: YeezyzTStar, AdineuePRO, Arial;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	background-image: url("../images/Background.jpg");
 }
 
 h1{
@@ -18,6 +19,18 @@ h2{
 	/*border-radius: 10px;*/
 }
 
+.header{
+	background-color: rgba(73, 64, 25, 0.616);
+	border-radius: 10px;
+}
+/* navajowhite */
+.text{
+	background-color:rgba(245, 245, 220, 0.5);
+	padding: 15px;
+	border-radius: 10px;
+	
+}
+
 .home {
 	background-image: url("../images/seal_of_san_francisco.png");
 	background-repeat: no-repeat;
@@ -30,8 +43,11 @@ a:link{
 	text-decoration: none;
 }
 
-a:active{
+a:hover{
 	color: #63a6bf;
+	border-radius: 4px;
+	text-decoration: underline;
+	
 }
 
 .container{
@@ -40,7 +56,7 @@ a:active{
 	padding-right: 50px;
 	width: 95%;
 	max-width: 1000px;
-	display: grid;
+	display: block;
 	grid-template-columns: 1fr 1fr 1fr;
 	grid-gap: 0 30px;
 }
@@ -50,16 +66,19 @@ nav, .home, .population, .hood, .economy, .source{
 	grid-column: 1/4;
 }
 
-.about{
-	grid-column: 1/2;
+.about div{
+	/* grid-column: 1/2; */
+	display: block;
 }
 
 .history{
-	grid-column: 2/3;
+	/* grid-column: 2/3; */
+	display: block;
 }
 
 .geography{
-	grid-column: 3/4;
+	/* grid-column: 3/4; */
+	display: block;
 }
 
 /*navigation bar*/
@@ -106,7 +125,7 @@ table{
 tr{
 	background-color: #729fb0;
 	color: black;
-	border
+	
 }
 
 tr:nth-child(even) {
@@ -124,9 +143,10 @@ th{
 	color: black;
 }
 
-table td, table th{
-	/*border: 1px solid #292929;*/
-}
+/* table td, table th{
+	/*border: 1px solid #292929;
+} 
+*/
 
 
 .figRight{
