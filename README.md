@@ -1,8 +1,8 @@
 **Vikram Gupta**
-**3/17/2021**
-# **Assignment 7: # Legibility, Readability, and Typography**
+**3/25/2021**
+# **Assignment 7: Legibility, Readability, and Typography**
 
-
+This
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTI2MjQyMzFdfQ==
+eyJoaXN0b3J5IjpbLTQzNTU2ODc2N119
 -->
