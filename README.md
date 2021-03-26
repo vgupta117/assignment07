@@ -13,7 +13,7 @@ Verdana, Geneva, Tahoma, sans-serif
 For the main header: Playfair Display, Merriweather, serif
 For sub heading and body text: Libre Baskervile, Lora, serif
 
-I chose Playfair Display, a google font
+I chose *Playfair Display*, a google font for the main heading bec
 
 
 
@@ -31,6 +31,6 @@ https://vikramgupta.digitalscholar.rochester.edu/assignment07
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzY1NjE1NDQsMTQ5Njg1NzM3NSwtOT
+eyJoaXN0b3J5IjpbLTE1MjgyMDY0MzEsMTQ5Njg1NzM3NSwtOT
 U3OTgxOTAzLC00MzU1Njg3NjddfQ==
 -->
