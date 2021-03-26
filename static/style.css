@@ -1,22 +1,30 @@
 body{
-	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-family: "Libre Baskervile", "Lora", serif;	
 	background-image: url("../images/Background.jpg");
 }
 
 h1{
-	text-shadow: 2px 2px #6a6a6a;
+	font-family: "Playfair Display", "Merriweather", serif;
+	font-size: 48px;
+	font-weight: bold;
 }
 
 h2{
+	font-family: "Libre Baskervile", "Lora", serif;
+	font-size: 36px;
+	font-weight: normal;
+	font-style: italic;
 	padding-top: 12px;
 	padding-bottom: 12px;
-	/*background-color: #63a6bf;*/
-	font-weight: normal;
 	background-image: url("../images/bw_seal_of_sf.svg.png");
 	background-repeat: no-repeat;
 	background-position: center left;
 	padding-left: 40px;
-	/*border-radius: 10px;*/
+}
+
+figcaption{
+	font-size: 14px;
+	font-style: italic;
 }
 
 .header{
@@ -25,14 +33,17 @@ h2{
 }
 /* navajowhite */
 .text{
-	background-color:rgba(245, 245, 220, 0.5);
+	font-family: "Libre Baskervile", "Lora", serif;
 	padding: 15px;
 	border-radius: 10px;
-	
+	font-size: 18px;
+	line-height: 1.5;
+	max-width:510;
 }
 
 .home {
 	background-image: url("../images/seal_of_san_francisco.png");
+	/*background-image: url("../images/sf_seal.jfif");*/
 	background-repeat: no-repeat;
 	background-position: center left;
 	padding-left: 60px;
@@ -62,23 +73,8 @@ a:hover{
 }
 
 
-nav, .home, .population, .hood, .economy, .source{
+nav, .home, .population, .hood, .economy, .source, .history, .about, .geography, .population{
 	grid-column: 1/4;
-}
-
-.about div{
-	/* grid-column: 1/2; */
-	display: block;
-}
-
-.history{
-	/* grid-column: 2/3; */
-	display: block;
-}
-
-.geography{
-	/* grid-column: 3/4; */
-	display: block;
 }
 
 /*navigation bar*/
@@ -93,10 +89,13 @@ nav, .home, .population, .hood, .economy, .source{
 	/*border: 1px solid #207278 ;*/
 	float:left;
 	margin-left:20px;
+	font-family: "Playfair Display", "Merriweather", serif;
+	font-weight: bold;
+	font-size: 24px;
 }
 .menu ul li a{
 	display: block;
-	padding:10px;
+	padding:5px;
 	color: #63a6bf;
 }
 
