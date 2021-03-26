@@ -8,7 +8,8 @@ https://jbkimani.digitalscholar.rochester.edu/assignment02/
 Verdana, Geneva, Tahoma, sans-serif
 
 **Font Families used in Assignment 7 website:**
-For the main headerPlayfair Display, Merriweather, serif
+For the main header: Playfair Display, Merriweather, serif
+For sub heading and body text: Libre Baskervile, Lora, serif
 
 
 
@@ -26,6 +27,6 @@ https://vikramgupta.digitalscholar.rochester.edu/assignment07
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzI1MzQwNjksMTQ5Njg1NzM3NSwtOT
-U3OTgxOTAzLC00MzU1Njg3NjddfQ==
+eyJoaXN0b3J5IjpbLTk3MzU3NzQ4OSwxNDk2ODU3Mzc1LC05NT
+c5ODE5MDMsLTQzNTU2ODc2N119
 -->
