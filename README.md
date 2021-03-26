@@ -21,9 +21,10 @@ I chose a font-size of 18px for the body text to make it more legible. The heade
 
 Measure is the number of of characters in a line of text.  Choosing a comfortable measure is important for readability.  I set the max-width property to be 510 which will ensure the measure to be between 45 and 75 characters.
 
-In addition to the changes to the css styles, I also made minor changes to layout using the CRAP principles.  I added images to capture inte
+In addition to the changes to the css styles, I also made minor changes to layout using the CRAP principles.  I added images to capture interest and add white space to the content heavy pages.
 
-
+**References**:
+https://docs.csc174.org/07-principles-of-page-design3/typography.pdf
 
 
 
@@ -38,7 +39,7 @@ https://vikramgupta.digitalscholar.rochester.edu/assignment07
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI0NjA1NjM3LC0xMzQwNzY2MTM5LDE5MT
+eyJoaXN0b3J5IjpbLTMyMzQzNDUxLC0xMzQwNzY2MTM5LDE5MT
 Q5Nzg0NiwtMTk1ODM4OTkxMiwtMjEwMzU4NTQ4MSwtMTM0NTU5
 ODA5NywxNDk2ODU3Mzc1LC05NTc5ODE5MDMsLTQzNTU2ODc2N1
 19
