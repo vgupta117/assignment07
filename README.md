@@ -10,10 +10,10 @@ https://jbkimani.digitalscholar.rochester.edu/assignment02/
 Verdana, Geneva, Tahoma, sans-serif
 
 **Font Families used in Assignment 7 website:**
-For the main header: Playfair Display, Merriweather, serif
+For the main header & navigation: Playfair Display, Merriweather, serif
 For sub heading and body text: Libre Baskervile, Lora, serif
 
-I chose *Playfair Display*, a google font for the main heading because it is a transitional serif font well suited for titles with its very large x-height, short descenders, and extra short capitals
+I chose *Playfair Display*, a google font for the main header and navigation menu because it is a transitional serif font well suited for titles with its very large x-height, short descenders, and extra short capitals
 
 
 
@@ -31,6 +31,6 @@ https://vikramgupta.digitalscholar.rochester.edu/assignment07
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDA0MTU4NiwxNDk2ODU3Mzc1LC05NT
-c5ODE5MDMsLTQzNTU2ODc2N119
+eyJoaXN0b3J5IjpbLTEzNDU1OTgwOTcsMTQ5Njg1NzM3NSwtOT
+U3OTgxOTAzLC00MzU1Njg3NjddfQ==
 -->
