@@ -17,7 +17,7 @@ I chose *Playfair Display*, a google font for the main header and navigation men
 
 I paired *Playfair Display* with *Libre Baskervile*, a classic serif google font for the section headers and body text to provide a good contrast.  I chose Libre Baskervile because it is optimized for reading on-screen with its taller x-height, wider counters and a little less contrast.  Since our website is content heavy, readability is very important.  I chose the same font for the section header and the body but distinguishing the section headers by its *italics* font-style.
 
-I chose a font-size of 18px for the body text to make it more legible. The header sizes are in increments of 12.  Main title is 48px, Section is 36px and Navigation Menu is 24px to provide proportion and balance.  Ledding (pronounced "ledding") is the space between consecutive lines of text.  I chose the css property line-height to be 1.5 times the size of the font.  Measure is the number of of characters in a line of text.  Choosing a comfortable measure is important for readability.  I set the max-width property to be 510 which will ensure a good measure of 4
+I chose a font-size of 18px for the body text to make it more legible. The header sizes are in increments of 12.  Main title is 48px, Section is 36px and Navigation Menu is 24px to provide proportion and balance.  Ledding (pronounced "ledding") is the space between consecutive lines of text.  I chose the css property line-height to be 1.5 times the size of the font.  Measure is the number of of characters in a line of text.  Choosing a comfortable measure is important for readability.  I set the max-width property to be 510 which will ensure the measure to be between 45 and 75 characters.  Setting max-width
 
 
 
@@ -34,7 +34,7 @@ https://vikramgupta.digitalscholar.rochester.edu/assignment07
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA1MDcyODIzLC0xMzQwNzY2MTM5LDE5MT
+eyJoaXN0b3J5IjpbNTcyNDAxNzk4LC0xMzQwNzY2MTM5LDE5MT
 Q5Nzg0NiwtMTk1ODM4OTkxMiwtMjEwMzU4NTQ4MSwtMTM0NTU5
 ODA5NywxNDk2ODU3Mzc1LC05NTc5ODE5MDMsLTQzNTU2ODc2N1
 19
