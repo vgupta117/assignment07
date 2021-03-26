@@ -15,7 +15,7 @@ For section header & body text: Libre Baskervile, Lora, serif
 
 I chose *Playfair Display*, a google font for the main header and navigation menu because it is a transitional serif font well suited for titles with its very large x-height, short descenders, and extra short capitals.  X-height is the distance between the baseline and the mean line of lower-case letters in a typeface (the height of the lowercase letter x)
 
-I paired *Playfair Display* with *Libre Baskervile*, a serif google font for the section headers and body text.  I chose Libre Baskervile because it is optimized for reading on-screen with its taller x-height, wider counters and a little less contrast.  Since our website is content heavy, readability is very important.  
+I paired *Playfair Display* with *Libre Baskervile*, a classic serif google font for the section headers and body text.  I chose Libre Baskervile because it is optimized for reading on-screen with its taller x-height, wider counters and a little less contrast.  Since our website is content heavy, readability is very important.  
 
 
 
@@ -32,7 +32,7 @@ https://vikramgupta.digitalscholar.rochester.edu/assignment07
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDgwNjczMzMsLTIxMDM1ODU0ODEsLT
-EzNDU1OTgwOTcsMTQ5Njg1NzM3NSwtOTU3OTgxOTAzLC00MzU1
-Njg3NjddfQ==
+eyJoaXN0b3J5IjpbLTk0MTc4MDc1NSwtMjEwMzU4NTQ4MSwtMT
+M0NTU5ODA5NywxNDk2ODU3Mzc1LC05NTc5ODE5MDMsLTQzNTU2
+ODc2N119
 -->
