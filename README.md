@@ -32,9 +32,6 @@ In addition to the changes to the css styles, I also made minor changes to layou
  5. [Google Fonts](https://fonts.google.com/)
 
 
-
-
-
 **Link to Assignment 7 Git Repository:**
 https://github.com/vgupta117/assignment07
 
@@ -43,8 +40,8 @@ https://vikramgupta.digitalscholar.rochester.edu/assignment07
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzI0NTY5OTQsLTEzNDA3NjYxMzksMT
-kxNDk3ODQ2LC0xOTU4Mzg5OTEyLC0yMTAzNTg1NDgxLC0xMzQ1
-NTk4MDk3LDE0OTY4NTczNzUsLTk1Nzk4MTkwMywtNDM1NTY4Nz
-Y3XX0=
+eyJoaXN0b3J5IjpbMTE4MzQ3ODgyNCwtMTM0MDc2NjEzOSwxOT
+E0OTc4NDYsLTE5NTgzODk5MTIsLTIxMDM1ODU0ODEsLTEzNDU1
+OTgwOTcsMTQ5Njg1NzM3NSwtOTU3OTgxOTAzLC00MzU1Njg3Nj
+ddfQ==
 -->
