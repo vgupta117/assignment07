@@ -1,9 +1,10 @@
 **Vikram Gupta**
 **3/25/2021**
 # **Assignment 7: Legibility, Readability, and Typography**
+This assignment demonstrates how the look and feel of a website can be improved by paying careful attention to legibility, readability and typography.
+
 **Link to Assignment 2 website:**
 https://jbkimani.digitalscholar.rochester.edu/assignment02/
-
 **Font Family used in Assignment 2 website:**
 Verdana, Geneva, Tahoma, sans-serif
 
@@ -27,6 +28,6 @@ https://vikramgupta.digitalscholar.rochester.edu/assignment07
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MzU3NzQ4OSwxNDk2ODU3Mzc1LC05NT
-c5ODE5MDMsLTQzNTU2ODc2N119
+eyJoaXN0b3J5IjpbODgwNzExMDcyLDE0OTY4NTczNzUsLTk1Nz
+k4MTkwMywtNDM1NTY4NzY3XX0=
 -->
