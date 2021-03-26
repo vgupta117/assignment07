@@ -15,13 +15,13 @@ For section header & body text: Libre Baskervile, Lora, serif
 
 I chose *Playfair Display*, a google font for the main header and navigation menu because it is a transitional serif font well suited for titles with its very large x-height, short descenders, and extra short capitals.  X-height is the distance between the baseline and the mean line of lower-case letters in a typeface (the height of the lowercase letter x).  Larger or taller x-height improves readability.
 
-I paired *Playfair Display* with *Libre Baskervile*, a classic serif google font for the section headers and body text to provide a good contrast transitional *Playfair Display*.  I chose Libre Baskervile because it is optimized for reading on-screen with its taller x-height, wider counters and a little less contrast.  Since our website is content heavy, readability is very important.  I chose the same font for the section header and the body but distinguishing the section headers by its *italics* font-style.
+To improve legibility, I paired *Playfair Display* with *Libre Baskervile*, a classic serif google font for the section headers and body text to provide a good contrast to the transitional *Playfair Display*.  I chose the same *Libre Baskervile* font for the section header and the body but distinguishing the section headers by its *italics* font-style.  The header sizes are in increments of 12.  Main title is 48px, Section is 36px and Navigation Menu is 24px to provide proportion and balance.
 
-I chose a font-size of 18px for the body text to make it more legible. The header sizes are in increments of 12.  Main title is 48px, Section is 36px and Navigation Menu is 24px to provide proportion and balance.  Leading (pronounced "ledding") is the space between consecutive lines of text.  I chose the css property line-height to be 1.5 times the size of the font to improve legibility.  
-
-Measure is the number of of characters in a line of text.  Choosing a comfortable measure is important for readability.  I set the max-width property to be 510 which will ensure the measure to be between 45 and 75 characters.
+I chose a font-size of 18px for the body text to make it more readable.   I chose *Libre Baskervile* because it is optimized for reading on-screen with its taller x-height, wider counters and a little less contrast.  Since our website is content heavy, readability is very important.  Leading (pronounced "ledding") is the space between consecutive lines of text.  I chose the css property line-height to be 1.5 times the size of the font to improve legibility.  Measure is the number of of characters in a line of text.  Choosing a comfortable measure is important for readability.  I set the max-width property to be 510 which will ensure the measure to be between 45 and 75 characters.
 
 In addition to the changes to the css styles, I also made minor changes to layout using the CRAP principles.  I added images to capture interest and add white space to the content heavy pages.  Also included a link to main page in the navigation menu to improve usability.
+
+It was good to see how little code I needed to change by using css styles.
 
 **References**:
 
