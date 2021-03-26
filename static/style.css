@@ -1,5 +1,21 @@
+@font-face {
+    font-family: 'Libre Baskerville';
+    src: url(https://vikramgupta.digitalscholar.rochester.edu/assignment07/Fonts/Libre_Baskerville/LibreBaskerville-Regular.ttf);
+}
+@font-face {
+    font-family: 'Lora';
+    src: url(https://vikramgupta.digitalscholar.rochester.edu/assignment07/Fonts/Lora/Lora-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: 'Playfair Display';
+    src: url(https://vikramgupta.digitalscholar.rochester.edu/assignment07/Fonts/Playfair_Display/PlayfairDisplay-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: 'Merriweather';
+    src: url(https://vikramgupta.digitalscholar.rochester.edu/assignment07/Fonts/Merriweather/Merriweather-Regular.ttf);
+}
 body{
-	font-family: "Libre Baskervile", "Lora", serif;	
+	font-family: "Libre Baskerville", "Lora", serif;	
 	background-image: url("../images/Background.jpg");
 }
 
@@ -10,7 +26,7 @@ h1{
 }
 
 h2{
-	font-family: "Libre Baskervile", "Lora", serif;
+	font-family: "Libre Baskerville", "Lora", serif;
 	font-size: 36px;
 	font-weight: normal;
 	font-style: italic;
@@ -33,7 +49,7 @@ figcaption{
 }
 /* navajowhite */
 .text{
-	font-family: "Libre Baskervile", "Lora", serif;
+	font-family: "Libre Baskerville", "Lora", serif;
 	padding: 15px;
 	border-radius: 10px;
 	font-size: 18px;
