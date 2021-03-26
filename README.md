@@ -17,7 +17,7 @@ I chose *Playfair Display*, a google font for the main header and navigation men
 
 I paired *Playfair Display* with *Libre Baskervile*, a classic serif google font for the section headers and body text to provide a good contrast.  I chose Libre Baskervile because it is optimized for reading on-screen with its taller x-height, wider counters and a little less contrast.  Since our website is content heavy, readability is very important.  I chose the same font for the section header and the body but distinguishing the section headers by its *italics* font-style.
 
-I chose a font-size of 18px for the body text to make it more legible. The header sizes are in increments of 12.  Main title is 48px, Section is 36px and Navigation Menu is 24px to provide proportion and balance.  **Ledding** (pronounced "ledding") is the space between consecutive lines of text.  I chose the css property line-height to be 1.5 times the size of the font.  **Measure** is the number of
+I chose a font-size of 18px for the body text to make it more legible. The header sizes are in increments of 12.  Main title is 48px, Section is 36px and Navigation Menu is 24px to provide proportion and balance.  Ledding (pronounced "ledding") is the space between consecutive lines of text.  I chose the css property line-height to be 1.5 times the size of the font.  Measure is the number of of characters in a line of text.  Choosing a comfortable measure is important for readability.
 
 
 
@@ -34,8 +34,8 @@ https://vikramgupta.digitalscholar.rochester.edu/assignment07
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MzQ2MzY1NiwtMTM0MDc2NjEzOSwxOT
-E0OTc4NDYsLTE5NTgzODk5MTIsLTIxMDM1ODU0ODEsLTEzNDU1
-OTgwOTcsMTQ5Njg1NzM3NSwtOTU3OTgxOTAzLC00MzU1Njg3Nj
-ddfQ==
+eyJoaXN0b3J5IjpbLTE4ODgxNDQ3MzEsLTEzNDA3NjYxMzksMT
+kxNDk3ODQ2LC0xOTU4Mzg5OTEyLC0yMTAzNTg1NDgxLC0xMzQ1
+NTk4MDk3LDE0OTY4NTczNzUsLTk1Nzk4MTkwMywtNDM1NTY4Nz
+Y3XX0=
 -->
