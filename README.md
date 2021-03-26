@@ -17,6 +17,8 @@ I chose *Playfair Display*, a google font for the main header and navigation men
 
 I paired *Playfair Display* with *Libre Baskervile*, a classic serif google font for the section headers and body text to provide a good contrast.  I chose Libre Baskervile because it is optimized for reading on-screen with its taller x-height, wider counters and a little less contrast.  Since our website is content heavy, readability is very important.  I chose the same font for the section header and the body but distinguishing the section headers by its *italics* font-style.
 
+Ledding 
+
 
 
 
@@ -32,7 +34,7 @@ https://vikramgupta.digitalscholar.rochester.edu/assignment07
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTgzODk5MTIsLTIxMDM1ODU0ODEsLT
-EzNDU1OTgwOTcsMTQ5Njg1NzM3NSwtOTU3OTgxOTAzLC00MzU1
-Njg3NjddfQ==
+eyJoaXN0b3J5IjpbLTIwODA0NzU4NjksLTE5NTgzODk5MTIsLT
+IxMDM1ODU0ODEsLTEzNDU1OTgwOTcsMTQ5Njg1NzM3NSwtOTU3
+OTgxOTAzLC00MzU1Njg3NjddfQ==
 -->
