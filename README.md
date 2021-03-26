@@ -27,7 +27,9 @@ In addition to the changes to the css styles, I also made minor changes to layou
 
  1. [Readability, Legibility and Typography](https://docs.csc174.org/07-principles-of-page-design3/typography.pdf)
  2. [The Perfect Paragraph by Heydon Pickering ](https://www.smashingmagazine.com/2011/11/the-perfect-paragraph/)
- 3. [The Ultimate Guide to Font Pairing](https://www.canva.com/learn/the-ultimate-guide-to-font-pairing/)
+ 3. [The Ultimate Guide to Font Pairing by Poppie Pack](https://www.canva.com/learn/the-ultimate-guide-to-font-pairing/)
+ 4. [W3Schools CSS Font Family](https://www.w3schools.com/css/tryit.asp?filename=trycss_font-family)
+ 5. [Google Fonts](https://fonts.google.com/)
 
 
 
@@ -41,7 +43,7 @@ https://vikramgupta.digitalscholar.rochester.edu/assignment07
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTM0NDYxOTUsLTEzNDA3NjYxMzksMT
+eyJoaXN0b3J5IjpbLTEyNzI0NTY5OTQsLTEzNDA3NjYxMzksMT
 kxNDk3ODQ2LC0xOTU4Mzg5OTEyLC0yMTAzNTg1NDgxLC0xMzQ1
 NTk4MDk3LDE0OTY4NTczNzUsLTk1Nzk4MTkwMywtNDM1NTY4Nz
 Y3XX0=
